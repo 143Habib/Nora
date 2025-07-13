@@ -1,4 +1,6 @@
 🔹 Project Name: Nora – Your Personal Voice-Powered AI Assistant
+
+
 🔹 Overview:
 Nora is my first Python-based AI assistant project, combining speech synthesis, basic command execution, and AI-generated conversational responses. Designed as a lightweight, voice-interactive desktop assistant, Nora not only handles basic tasks like opening Notepad, taking screenshots, and checking battery status but also answers general queries using the Groq API with the LLaMA 3 model.
 
